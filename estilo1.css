@@ -1,0 +1,47 @@
+html, body {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.article{
+    margin: 100;
+    width: 100;
+}
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+}
+section {
+    color: white;
+    background-color: grey;
+    text-align: center;
+    width: 100%;
+}
+
+.article {
+    background-color: grey;
+    width: 1px;
+    height: 0px;
+    min-width: 300px;
+    margin: 300px;
+    padding-left: 175px;
+}
+.section1{
+    height: 50px;
+    border: 1px solid black;
+    
+}
+.section2{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    
+    
+}
+.section3{
+    color: black;
+    background-color: rgb(207, 207, 207);
+    height: 50px;
+    border: 1px solid black;
+
+}
